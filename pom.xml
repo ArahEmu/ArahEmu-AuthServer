@@ -9,6 +9,14 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.arahemu</groupId>
+            <artifactId>arahemu-framework</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
     <build>
         <plugins>
             <!-- http://mvnrepository.com/artifact/org.apache.maven.plugins/maven-dependency-plugin -->
